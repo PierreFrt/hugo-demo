@@ -1,9 +1,9 @@
-media: content/img/
+media: static/img
 content:
   - name: posts
     label: Posts
     type: collection
-    path: _posts
+    path: content/posts
     view: 
       fields: [title, date]
 
