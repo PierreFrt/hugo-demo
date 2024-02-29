@@ -1,7 +1,7 @@
 media: static/img
 content:
   - name: posts
-  - label: Posts
-  - type: collection
-  - path: _posts
+    label: Posts
+    type: collection
+    path: _posts
   
