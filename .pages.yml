@@ -1,6 +1,6 @@
 media: static/img
 content:
-  - name: posts
+  - name: content/posts
     label: Posts
     type: collection
     path: _posts
