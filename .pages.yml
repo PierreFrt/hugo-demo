@@ -6,6 +6,5 @@ content:
     path: content/posts
     view: 
       fields: [title, date]
-
       
   
