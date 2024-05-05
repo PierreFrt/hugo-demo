@@ -9,7 +9,6 @@ content:
     fields:
       - { name: title, label: Title, type: string}
       - { name: date, label: Date, type: date}
-      - { name: image, label: Image, type: image}
+      - { name: cover, label: Cover, type: object, fields: [{name: image,label: image, type: image},{name: alt,label: alt, type: string, default: ""},{name: caption,label: caption, type: string, default: ""},{name: relative,label: relative, type: boolean, default: false} ]}
       - { name: body, label: Body, type: rich-text}
-      
-  
+
