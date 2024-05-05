@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Demo for Hugo</title>
+    <link>/</link>
+    <description>Recent content on Demo for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bonjour à tous</title>
+      <link>/posts/2024-02-29-bonjour-a-tous/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2024-02-29-bonjour-a-tous/</guid>
+      <description>Comment ca va ?</description>
+    </item>
+    
+    <item>
+      <title>Jfjdns</title>
+      <link>/posts/2024-02-29-jfjdns/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2024-02-29-jfjdns/</guid>
+      <description>sdnfsdkjn</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Sun, 23 Jul 2023 14:30:14 +0200</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>This is the first post Let&amp;rsquo;s see what you&amp;rsquo;ve got Hugo ! So this morning, while I was walking alongside the beach, I encountered a dear.</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>/posts/second/</link>
+      <pubDate>Sun, 23 Jul 2023 14:30:14 +0200</pubDate>
+      
+      <guid>/posts/second/</guid>
+      <description>THis is the second post Ok. So today I wanted to talk about something that happened to me recently.</description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>/posts/third/</link>
+      <pubDate>Sun, 23 Jul 2023 14:30:14 +0200</pubDate>
+      
+      <guid>/posts/third/</guid>
+      <description>THis is the third post Let&amp;rsquo;s see if it updates on netifly&amp;hellip;</description>
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -1,7 +1,8 @@
 ---
 title: Second
 date: 2023-07-23T14:30:14+02:00
-image: /static/img/0.png
+cover:
+  image: /static/img/0.png
 ---
 # THis is the second post
 
