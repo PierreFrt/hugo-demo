@@ -2,8 +2,7 @@
 title: "Third"
 date: 2023-07-23T14:30:14+02:00
 draft: false
-cover:
-  image:  /static/img/0.png
+cover:  /static/img/0.png
 ---
 
 # THis is the third post

@@ -2,7 +2,7 @@
 title: Bonjour à tous
 date: 2024-02-29
 description: Comment ca va ?
-image: /static/img/0.png
+image: img/0.png
 ---
 Bonkoir
 

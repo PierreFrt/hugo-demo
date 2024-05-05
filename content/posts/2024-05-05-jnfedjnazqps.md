@@ -1,7 +1,9 @@
 ---
 title: Jnfedjnazqps
 date: 2024-05-05
-image: /static/img/0.png
+cover:
+  image: img/0.png
+  alt: 'd'
 ---
 sd nkfjvnqlkfnp
 

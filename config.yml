@@ -5,6 +5,7 @@ theme: PaperMod
 
 
 params:
+  hideMetas: true
   homeInfoParams:
     Title: "Hello Stranger"
     Content: Welcome to my blog, Here you'll find a lot of cool and interesting things.
